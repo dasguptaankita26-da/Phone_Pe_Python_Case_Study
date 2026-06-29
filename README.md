@@ -24,7 +24,6 @@ This project analyzes **PhonePe digital payment transaction data** using Python 
 * NumPy
 * Matplotlib
 * Seaborn
-* Plotly
 
 ---
 
@@ -85,6 +84,4 @@ The **PhonePe Screenshots** folder contains visualizations generated during the 
 2. Open `PhonePe.ipynb` in Jupyter Notebook or Google Colab.
 3. Install the required Python libraries if needed.
 4. Run the notebook cells sequentially.
-
-## ⭐ If you found this project helpful, consider giving it a star!
 
